@@ -20,6 +20,8 @@ theme: hanuman
 #about: about
 #contact: contact
 #privacy-policy: privacy-policy
+overdue: overdue
+about: about
 
 permalink: /:title
 
