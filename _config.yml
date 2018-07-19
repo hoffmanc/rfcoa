@@ -21,7 +21,6 @@ theme: hanuman
 #contact: contact
 #privacy-policy: privacy-policy
 overdue: overdue
-about: about
 
 permalink: /:title
 
